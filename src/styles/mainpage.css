@@ -1,0 +1,38 @@
+.container-form form {
+  display: flex;
+  flex-direction: column;
+  padding: 50px 0 0 0;
+}
+.form-line {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 15px 0;
+}
+.form-line input {
+  height: 35px;
+  padding: 0 5px;
+  border-radius: 5px;
+  border: 1px solid black;
+  outline: none;
+}
+.form-line textarea {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid black;
+  outline: none;
+  resize: none;
+  height: 200px;
+}
+.form-line label {
+  margin: 0 0 5px 0;
+}
+.form-text button {
+  background: #000;
+  border: none;
+  padding: 10px 20px;
+  color: #fff;
+  border-radius: 5px;
+}
+.form-text button:first-child {
+  margin: 0 10px 0 0;
+}
