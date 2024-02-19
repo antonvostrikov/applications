@@ -1,13 +1,14 @@
 {
   "applications": [
-    { 
-      "id": 1, 
-      "title": "Тестирование темы заявки на работоспособность", 
+    {
+      "id": 1,
+      "theme": "Тестирование темы заявки на работоспособность",
       "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eius eum minus deleniti ratione tenetur sunt! Dolores quos excepturi natus maxime numquam accusamus nisi non.",
-      "name": "Виталий", 
+      "name": "Виталий",
       "secondName": "Жванецкий",
       "surname": "Олегович",
-      "contact": "+79265554235"  
+      "number": "+79265554235",
+      "email": "oleg2214@gmail.com"
     }
   ]
 }
